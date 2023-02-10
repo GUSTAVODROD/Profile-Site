@@ -10,7 +10,6 @@ const boton= document.querySelector("button")
 
 let exapnsion= boton["aria-expanded"]
 
-window.onload => bsCollapse.toggle()
 
 navLinks.forEach((link) => {
 
