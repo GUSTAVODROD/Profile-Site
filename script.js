@@ -10,6 +10,8 @@ const boton= document.querySelector("button")
 
 let exapnsion= boton["aria-expanded"]
 
+bsCollapse.toggle()
+
 navLinks.forEach((link) => {
 
     link.addEventListener('click', () => { bsCollapse.toggle() })
