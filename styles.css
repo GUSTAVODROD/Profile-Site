@@ -179,7 +179,6 @@ input{
     border-radius: 20px;
     padding: 5px;
     width: 100%;
-
 }
 
 textarea{
@@ -225,3 +224,4 @@ hr{
     
 }
 
+overflow:hidden;
