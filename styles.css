@@ -8,6 +8,7 @@ body{
     margin: left 0 ;
     padding: left 0;
     width: 103%;
+    overflow-x: hidden;
 }
 
 
@@ -223,5 +224,3 @@ hr{
     border: 2px solid blue;
     
 }
-
-overflow:hidden;
