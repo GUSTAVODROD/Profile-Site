@@ -8,7 +8,7 @@ const Nav= document.getElementsByClassName("Nav")
 
 const boton= document.querySelector("button")
 
-let exapnsion= boton["aria-expanded"]
+let expansion= boton["aria-expanded"]
 
 
 navLinks.forEach((link) => {
